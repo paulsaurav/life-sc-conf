@@ -16,9 +16,11 @@ export default function HeroSection() {
           <HeroTitleBlock />
           
           {/* Button with z-index to ensure it is on top */}
+          <div className="flex flex-col justify-center items-center"> 
           <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl btn-success z-20">
             <a href="#" target="_blank">PAPER SUBMISSION</a>
           </button>
+          </div>
         </div>
       </div>
 

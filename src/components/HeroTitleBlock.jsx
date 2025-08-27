@@ -16,15 +16,15 @@ export default function HeroTitleBlock() {
   }, []);
 
   return (
-    <div className="text-white font-poppins text-left mx-auto max-w-fit leading-tight relative z-10">
-      <h1 className="text-[24px] md:text-[24px] font-bold text-center z-50">
+    <div className="text-white font-poppins text-center mx-auto max-w-fit leading-tight relative z-10 flex flex-col items-center justify-center">
+      <h1 className="text-[24px] md:text-[24px] font-bold z-50">
         Climate Change and Environmental Sustainability in Mountainous and Hilly Landscapes
       </h1>
 
       <div className="relative h-[40px] md:h-[48px] mt-1">
         <div
           key={index}
-          className="absolute animate-flipText text-[20px] md:text-[28px] font-bold whitespace-nowrap"
+          className="animate-flipText text-[20px] md:text-[28px] font-bold whitespace-nowrap"
         >
           {lines[index]}
         </div>
