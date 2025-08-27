@@ -71,6 +71,7 @@ const lists = {
     "Shri. Angshuman Dey, Joint Secretary, Ministry of DoNER, Govt. of India",
     "Dr. Samarendra Hazarika, Director i/c, ICAR RC for NEH Region",
     "Prof. M. Premjit Singha, Former VC, CAU Imphal & Regional President, BVP NE",
+    "Prof. Sunil Nautiyal, Former Director, NIHE"
 
   ],
   coPatrons: [
@@ -93,6 +94,7 @@ const lists = {
     "Dr. Sandeep Ghatak, Head, DAFS, ICAR RC for NEH Region",
     "Dr. Pallabh Choudhury, Joint Director, ICAR – IVRI RS",
     "Dr. Abdur Rezzak Ahmed, Joint Director (Agriculture), Govt. of Assam",
+    "Dr. Rajesh Joshi, NIHE"
 
   ],
   chairman: [
@@ -123,6 +125,8 @@ const lists = {
     "Prof. Himadri Sekhar Das, Head, Dept. of Political Science, AUS",
     "Dr. Darshana Patoa, Chief Medical Officer, AUS",
     "Dr. Kingshuk Adhikari, Dept. of Commerce, AUS",
+    "Dr. Debasish Chakraborty, Dept. of Visual Arts, AUS",
+    "Dr. Gautam Dutta, Dept. of Visual Arts, AUS",
     "Dr. Apratim Nag, Principal, Cachar College",
     "Dr. Ratan Kumar, Principal, Srikishan Sarda College",
     "Prof. Prodipto Das, Head, Dept. of Computer Science, AUS",
@@ -135,57 +139,42 @@ const lists = {
     "Prof. Arun Jyoti Nath, Dept. of Ecology & Environmental Science, AUS",
     "Prof. Paromita Das, Dept. of Mass Communication, AUS",
     "Prof. Govind Sharma, Dept. of Sanskrit, AUS",
-    "Prof. Surekha Kundu, Dept. of Botany, University of Calcutta, Kolkata",
     "Dr. Tushar Kanti Deb Kanunjna, Ecologist & Civil Society Activist",
     "Dr. Niharendu Dhar, Deputy Registrar, NIT Silchar",
+    "Dr. Mrityunjay Kumar Singh, Dept. of Social Work, AUS",
+    "Dr. Chetan Baliram Khobragade, Dept. of Agricultural Engineering, AUS",
+    "Dr. Sumit Saha, Dept. of Mathematics, AUS",
+    "Dr. Sangharsh Mishra, Science communication, AUS",
+    "Dr. Kalyan Das, Dept. of Business Administration, AUS",
+    "Dr. Dristirupa Patgiri, Dept. of Law, AUS",
+    "Dr. Kollol Das Talukdar, Rabindra Library, AUS",
+    "Dr. Pranesh Debnath, Dept. of Commerce, AUS",
+    "Dr. Joyashree Dey, Dept. of Social Work, AUS",
+    "Dr. Sanjoy Sinha, Dept. of Economics, AUS",
+    "Dr. Sarbani Dey Roy, Dept. of Pharmaceutical Sciences, AUS",
+    "Dr. Biswa Ranjan Roy, Dept. of Computer Science, AUS",
+    "Dr. Munmun Chakraborty, Dept. of Philosophy, AUS",
+    "Dr. Ruma Debnath, Dept. of Sociology, AUS",
+    "Er. Debanon Dey Purkayastha, Engineering Section, AUS",
+    "Er. Partha Pratim Dey, Engineering Section, AUS",
+    "Ranjit Das, Finance Section, AUS",
+    "Alok Chakraborty, Finance Section, AUS",
+    "Anup Verma, Research & Fellowship Section, AUS",
+    "Sandeep Dey, Research & Fellowship Section, AUS",
+    "Nazrul Islam Barbhuiya, Finance Section, AUS",
+    "Ramakanta Rajkumar, Academic Section, AUS",
   ],
   localOrganising: [
-    "Dr. Lungmuana, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. Lalhruaipuii, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. A. L. Jat, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. Vikas Pali, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. Blessa Sailo, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. Vanlalruati, ICAR RC for NEH Region, Mizoram Centre",
     "Dr. Ramanjum E., Dept. of Computer Science & Engineering, NIT Silchar",
     "Dr. Santosh Kumar, Dept. of Mechanical Engineering, NIT Silchar",
     "Dr. Bijoy Chhetri, ICAR-KVK Hailakandi",
     "Dr. Saurabh Sarma, ICAR-KVK Hailakandi",
-    "Dr. Debasish Chakraborty, Dept. of Visual Arts, AUS",
-    "Dr. Gautam Dutta, Dept. of Visual Arts, AUS",
     "Mr. Angom Baleshwor Singh, ICAR KVK Hailakandi",
-    "Mr. P. L. Lalrinsanga, ICAR RC for NEH Region, Mizoram Centre",
     "Dr. Samik Chowdhury, ICAR RC for NEH Region, Mizoram Centre",
-    "Dr. Jayaditya Purkayastha, Help Earth, Guwahati",
-    "Dr. Madhurima Das, Dept. of Zoology, Assam Don Bosco University",
     "Dr. Himangsu Misra, KVK Cachar",
     "Dr. Joyshikh Sonowal, KVK Karimganj",
-    "Dr. Shyamal Chandra Sukla Das, Sr. Scientist, ICAR - CIFRI, Regional Centre, Guwahati",
-    "Dr. Rajib Deb, Sr. Scientist, ICAR NRC on Pig, Rani, Assam",
-    "Dr. Lokesh E, Scientist, ICAR NRC on Pig, Rani, Assam",
-    "Dr. Binod Kumar Dutta Boruah, Sr. Scientist, ICAR RC for NEH Region, Arunchal Pradesh",
-    "Dr. Prasanna Pathak, Sr. Scientist, ICAR-ATARI Zone VII, Umiam",
-    "Dr. Mrityunjay Kumar Singh, Department of Social Work, AUS",
-    "Dr. Chetan Baliram Khobragade, Department of Agricultural Engineering, AUS",
-    "Dr. Sumit Saha, Department of Mathematics, AUS",
-    "Dr. Sangharsh Mishra, Science communication, AUS",
-    "Dr. Kalyan Das, Department of Business Administration, AUS",
-    "Dr. Dristirupa Patgiri, Department of Law, AUS",
-    "Dr. Kollol Das Talukdar, Rabindra Library, AUS",
-    "Dr. Pranesh Debnath, Department of Commerce, AUS",
-    "Dr. Joyashree Dey, Department of Social Work, AUS",
-    "Dr. Sanjoy Sinha, Department of Economics, AUS",
-    "Dr. Sarbani Dey Roy, Department of Pharmaceutical Sciences, AUS",
-    "Dr. Soumitra Nath, Department of Biotechnology, Gurucharan College Silchar",
-    "Dr. Biswa Ranjan Roy, Department of Computer Science, AUS",
-    "Dr. Anil Deka, Department of Anatomy and Histology, College of Veterinary Sciences, Khanapara",
-    "Dr. Munmun Chakraborty, Department of Philosophy, AUS",
-    "Dr. Ruma Debnath, Dept. of Sociology, AUS",
+    "Dr. Soumitra Nath, Dept. of Biotechnology, Gurucharan College Silchar",
     "Dr. Surojit Sen, Mariani College, Mariani",
-    "Er. Debanon Dey Purkayastha, Engineering Section, AUS",
-    "Er. Partha Pratim Dey, Engineering Section, AUS",
-    "Dr. Basanta Bora, Department of Agricultural Biotechnology, AAU",
-    "Dr. Priyadarshini Bharali, Department of Agricultural Biotechnology, AAU",
-    "Dr. Ratna Kalita, Department of Agricultural Biotechnology, AAU",
     "Dr. Binoy Paul, Dept. of History, AUS",
     "Dr. Madhumita Roy, Bir Bikram Institution, Dharmanagar",
     "Dr. Rinku Saha, Mediland Hospital & Research Centre, Silchar",
@@ -194,12 +183,6 @@ const lists = {
     "Mrs. Kabita C. Sarma, ICAR-KVK Hailakandi, Assam",
     "Mr. Arindam Choudhury, ICAR-KVK Hailakandi, Assam",
     "Subrata Sinha, Estate Section, AUS",
-    "Ranjit Das, Finance Section, AUS",
-    "Alok Chakraborty, Finance Section, AUS",
-    "Anup Verma, Research & Fellowship Section, AUS",
-    "Sandeep Dey, Research & Fellowship Section, AUS",
-    "Nazrul Islam Barbhuiya, Finance Section, AUS",
-    "Ramakanta Rajkumar, Academic Section, AUS",
     "Birupakshya Paul Choudhury, Cachar College",
     "Simmee Das, Cluster Resource Centre Coordinator, Hailakandi",
     "Pranab Bhattacharjee, Dept. of Mass Communication, AUS",
@@ -212,7 +195,7 @@ const lists = {
     "Jayita Das, Dept. of Pharmaceutical Sciences, AUS",
     "Abhideep Roy, Dept. of Life Science & Bioinformatics, AUS",
     "Saurav Paul, Dept. of Computer Science, AUS",
-    "Tanmoy Acharjee, Department of Business Administration, AUS",
+    "Tanmoy Acharjee, Dept. of Business Administration, AUS",
     "Sandipan Das, Dept. of Life Science & Bioinformatics, AUS",
     "Utsav Singh Thakur, Dept. of Social Work, AUS",
     "Sarada Singha, Dept. of Political Science, AUS",
@@ -246,6 +229,8 @@ const lists = {
     "Rupam Dutta, Dept. of Education, AUS",
     "Shubham Dey, Dept. of Agricultural Engineering, AUS",
     "Mohit Chanda, Dept. of Agricultural Engineering, AUS",
+    "Raj Kishore Das, Dept. of Life Science & Bioinformatics, AUS",
+    "Rima Chakraborty, Dept. of Life Science & Bioinformatics, AUS",
     "Dalia Sinha, Dept. of Life Science & Bioinformatics, AUS",
     "Snygdha Purkayastha, Dept. of Life Science & Bioinformatics, AUS",
     "Ng. Ankita Singha, Dept. of Life Science & Bioinformatics, AUS",
@@ -263,24 +248,42 @@ const lists = {
     "Prof. Peter Massanyi, Head, Institute of Applied Biology, Faculty of Biotechnology & Food Sciences, Slovak University of Agriculture in Nitra, Slovakia",
     "Prof. Lucia Rocco, Dept. of Environmental, Biological & Pharmaceutical Sciences & Technologies, University of Campania Luigi Vanvitelli, Caserta, Italy",
     "Dr. Petr Slama, Assoc. Professor & Former Head, Dept. of Animal Morphology, Physiology & Genetics, Faculty of AgriSciences, Mendel University in Brno, Brno, Czech Republic",
-    "Prof. Sukalyan Kumar Kundu, Department of Pharmacy, Jahangirnagar University, Savar, Bangladesh",
+    "Dr. Renee Hazarika, Communicator & Policy Researcher, Vienna, Austria",
     "Dr. Filomena Mottola, Dept. of Veterinary Medicine, University of Naples Federico II, Naples, Italy",
-    "Dr. Ales Pavlik, Associate Professor, Department of Animal Morphology, Physiology and Genetics, Mendel University, Brno.",
-    "Dr. Kavindra Kumar Kesari, Sr. Scientist, Department of Bioproducts and Biosystems, Aalto University, Espoo, Finland.",
-    "Dr. Pallav Sengupta, Assistant Professor in Physiology, College of Medicine, Gulf Medical University, UAE",
-    "Dr. Sulagna Dutta, Assistant Professor (Physiology), College of Medicine, Ajman University, UAE",
+    "Dr. Ales Pavlik, Assoc. Professor & Head, Dept. of Animal Morphology, Physiology and Genetics, Mendel University, Brno.",
+    "Dr. Kavindra Kumar Kesari, Sr. Scientist, Dept. of Bioproducts and Biosystems, Aalto University, Espoo, Finland.",
+    "Dr. Pallav Sengupta, Assistant Professor, College of Medicine, Gulf Medical University, UAE",
+    "Dr. Sulagna Dutta, Assistant Professor, College of Medicine, Ajman University, UAE",
     "Dr. Israel Maldonado Rosas, CEO, Citmer Reproductive Medicine, Mexico.",
-    "Dr. Zofia Goc, Researcher, Department of Animal Physiology and Toxicology, University of the National Education Commission, Krakow, Poland",
-    "Prof. Alica Rafayova, Department of genetics and breeding biology, Faculty of Agrobiology and Food, Slovak University of Agriculture in Nitra.",
-    "Matej Krebs, Clinical Senior Lecturer, University of Manchester, Hong Kong",
-    "Dr. Renee Hazarika, Dermatologist, Guwahati, Assam.",
-    "Dr. Artan Qineti, Associate Professor, Department of Economic Policy, Slovak University of Agriculture in Nitra.",
-    "Dr. Arpita Roychoudhury, Professor, Department of Nephrology, Institute of Post Graduate Medical Education and Research, Kolkata",
-    "Dr. Francesco Vizzari, Researcher, Department of Agricultural and Environmental Science, University of Bari Aldo Moro, Bari, Italy"
-
-
+    "Dr. Zofia Goc, Dept. of Animal Physiology and Toxicology, University of the National Education Commission, Krakow, Poland",
+    "Dr. Artan Qineti, Assoc. Professor, Dept. of Economic Policy, Slovak University of Agriculture in Nitra, Slovakia",
+    "Dr. Arpita Roychoudhury, Innovation Manager, Xolo GmbH, Berlin, Germany",
+    "Dr. Francesco Vizzari, Researcher, Dept. of Agricultural and Environmental Science, University of Bari Aldo Moro, Bari, Italy",
+    "Matej Krebs, Anja spol. s.r.o. Slovakia",
+    "Prof. Sukalyan Kumar Kundu, Dept. of Pharmacy, Jahangirnagar University, Dhaka, Bangladesh",
+    "Dr. Shuvra Kanti Dey, Prof. Dept. of Microbiology, Jahangirnagar University, Dhaka, Bangladesh",
+    "Dr. Pradip Debnath, Assoc. Professor, Dept. of Pharmacy, Cumilla University, Kotbari, Cumilla"
   ],
   nationalAdvisory: [
+    "Dr. Lungmuana, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. Lalhruaipuii, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. A. L. Jat, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. Vikas Pali, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. Blessa Sailo, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. Vanlalruati, ICAR RC for NEH Region, Mizoram Centre",
+    "Mr. P. L. Lalrinsanga, ICAR RC for NEH Region, Mizoram Centre",
+    "Dr. Jayaditya Purkayastha, Help Earth, Guwahati",
+    "Dr. Basanta Bora, Dept. of Agricultural Biotechnology, AAU",
+    "Dr. Priyadarshini Bharali, Dept. of Agricultural Biotechnology, AAU",
+    "Dr. Ratna Kalita, Dept. of Agricultural Biotechnology, AAU",
+    "Dr. Anil Deka, Dept. of Anatomy and Histology, College of Veterinary Sciences, Khanapara",
+    "Dr. Madhurima Das, Dept. of Zoology, Assam Don Bosco University",
+    "Prof. Surekha Kundu, Dept. of Botany, University of Calcutta, Kolkata",
+    "Dr. Shyamal Chandra Sukla Das, Sr. Scientist, ICAR - CIFRI, Regional Centre, Guwahati",
+    "Dr. Rajib Deb, Sr. Scientist, ICAR NRC on Pig, Rani, Assam",
+    "Dr. Lokesh E, Scientist, ICAR NRC on Pig, Rani, Assam",
+    "Dr. Binod Kumar Dutta Boruah, Sr. Scientist, ICAR RC for NEH Region, Arunchal Pradesh",
+    "Dr. Prasanna Pathak, Sr. Scientist, ICAR-ATARI Zone VII, Umiam",
   ],
 };
 
@@ -366,7 +369,7 @@ export default function CommitteePage() {
           <div className="relative z-10">
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">Organizing Committee</h1>
             <p className="text-xl text-teal-100 max-w-2xl mx-auto">
-              Distinguished leaders guiding our conference on Climate Change and Sustainability in Mountain Landscapes
+              Climate Change and Environmental Sustainability in Mountainous and Hilly Landscapes - 2025
             </p>
           </div>
         </div>
@@ -388,17 +391,17 @@ export default function CommitteePage() {
             Our dedicated committee members are working to make this conference on mountain sustainability a success
           </p>
         </div>
-        
+        {/* <h2 className="text-3xl font-bold text-teal-800 text-center mb-4">Patrons</h2> */}
         {/* Leadership Grid */}
-        <div className="grid md:grid-cols-2 gap-6 mb-16">
+        {/* <div className="grid md:grid-cols-2 gap-6 mb-16">
           {people.map((p) => (
             <LeaderItem key={p.role} p={p} />
           ))}
-        </div>
+        </div> */}
         
         {/* Committee Sections */}
         <div className="space-y-8">
-          <h2 className="text-3xl font-bold text-teal-800 text-center mb-8">Committee Members</h2>
+          {/* <h2 className="text-3xl font-bold text-teal-800 text-center mb-8">Committee Members</h2> */}
           
           <ListBlock title="Patrons" items={lists.patrons} />
           <ListBlock title="Co-Patrons" items={lists.coPatrons} />
@@ -409,9 +412,9 @@ export default function CommitteePage() {
           <ListBlock title="Coordinator" items={lists.coordinator} />
           <ListBlock title="Treasurer" items={lists.treasurer} />
           <ListBlock title="Members" items={lists.members} />
-          <ListBlock title="Local Organising Committee Members" items={lists.localOrganising} />
+          <ListBlock title="Local Organising Committee" items={lists.localOrganising} />
           <ListBlock title="International Advisory Committee" items={lists.internationalAdvisory} />
-          <TwoColList title="National Advisory Committee" items={lists.nationalAdvisory} />
+          <ListBlock title="National Advisory Committee" items={lists.nationalAdvisory} />
         </div>
       </div>
       

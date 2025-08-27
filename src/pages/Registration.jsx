@@ -52,7 +52,7 @@ export default function Registration() {
         {/* PUBLICATION */}
         <h2 className="mt-12 text-xl font-extrabold uppercase">Publication</h2>
         <p className="mt-3">
-          The conference proceeding will be published either in Springer or TFCS.
+          The conference proceeding will be published either in Springer or Taylor & Francis.
         </p>
 
         {/* PAPER SUBMISSION */}
@@ -79,9 +79,9 @@ export default function Registration() {
           Important Dates
         </h2>
         <ul className="mt-4 list-disc pl-6 space-y-2">
-          <li>Paper Submission Last Date: 30th September, 2025</li>
-          <li>Notification of Acceptance: 10th October, 2025</li>
-          <li>Authors Registration Deadline: 15th October, 2025</li>
+          <li>Paper Submission Deadline: 30 September, 2025</li>
+          <li>Notification of Acceptance: 10 October, 2025</li>
+          <li>Authors Registration Deadline: 15 October, 2025</li>
           <li>Conference Dates: 28–29, November, 2025</li>
         </ul>
       </div>

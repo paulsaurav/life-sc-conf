@@ -18,7 +18,7 @@ export default function HeroTitleBlock() {
   return (
     <div className="text-white font-poppins text-center mx-auto max-w-fit leading-tight relative z-10 flex flex-col items-center justify-center">
       <h1 className="text-[24px] md:text-[24px] font-bold z-50">
-        Climate Change and Environmental Sustainability in Mountainous and Hilly Landscapes
+        Climate Change and Environmental Sustainability in Mountainous and Hilly Landscapes - 2025
       </h1>
 
       <div className="relative h-[40px] md:h-[48px] mt-1">
