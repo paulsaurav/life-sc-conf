@@ -2,11 +2,9 @@ import Header from "../components/Header";
 import HeroSection from "../components/HeroSection";
 import AboutSection from "../components/AboutSection";
 import ConferenceInfo from "../components/ConferenceInfo";
-import Gallery from "../components/Gallery";
-import AboutConference from "../components/AboutConference";
-import HomepageOtherDetails from "../components/HomepageOtherDetails";
 import Venue from "../components/Venue";
 import Sponsors from "../components/Sponsors";
+import RegistrationSection from "../components/RegistrationSection";
 import Footer from "../components/Footer";
 import { Helmet } from "react-helmet";
 
@@ -27,9 +25,7 @@ const Home = () => {
       <HeroSection />
       <ConferenceInfo />
       <AboutSection />
-      <Gallery />
-      <AboutConference />
-      <HomepageOtherDetails />
+      <RegistrationSection />
       <Venue />
       <Sponsors />
       {/* <CMT /> */}
