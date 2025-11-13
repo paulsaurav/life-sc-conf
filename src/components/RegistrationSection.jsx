@@ -7,7 +7,7 @@ const RegistrationSection = () => {
         <h2 className="text-2xl font-bold mt-2 text-gray-900 mb-6">
           REGISTER HERE
         </h2>
-        <div className="flex justify-center items-center">
+        <div className="flex flex-col items-center gap-6">
           <div className="max-w-md">
             <img
               src="/qr.jpeg"
@@ -15,6 +15,17 @@ const RegistrationSection = () => {
               className="w-full h-auto rounded-lg shadow-lg"
             />
           </div>
+          <p className="text-gray-700 text-md font-medium">
+            Scan QR code or click the button below
+          </p>
+          <a
+            href="https://share.google/mII6UzJ3gbRvd2gNY"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-primary btn-lg"
+          >
+            Register Now
+          </a>
         </div>
       </div>
     </section>
